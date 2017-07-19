@@ -5,6 +5,12 @@ application up and running.
 
 Things you may want to cover:
 
+###  あんぷり亭
+- 安い
+- かわいい
+- ぷっちょむが大好き
+http://unpretei.com/system.cgi
+
 * Ruby version
 
 * System dependencies
